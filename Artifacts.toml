@@ -1,0 +1,80 @@
+[[Xorg_libXxf86vm]]
+arch = "armv7l"
+git-tree-sha1 = "7936883e7c677f3f13f629daf758e515fc57a08f"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXxf86vm.download]]
+    sha256 = "c03ddc09f0aec944bb1ad1b17e3922b03baacc47c73cf330c30a3db726f598df"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXxf86vm_jll.jl/releases/download/Xorg_libXxf86vm-v1.1.4+0/Xorg_libXxf86vm.v1.1.4.arm-linux-gnueabihf.tar.gz"
+[[Xorg_libXxf86vm]]
+arch = "aarch64"
+git-tree-sha1 = "abdb3c11ff94628efd1ad14a085b91e3a79212c3"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXxf86vm.download]]
+    sha256 = "a20b5c429d4534ee0a34d90b65e4bd7f99c705e8f80687d66b60bab1de7a0fef"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXxf86vm_jll.jl/releases/download/Xorg_libXxf86vm-v1.1.4+0/Xorg_libXxf86vm.v1.1.4.aarch64-linux-musl.tar.gz"
+[[Xorg_libXxf86vm]]
+arch = "i686"
+git-tree-sha1 = "659753b11c68f0a2825bddfb6fb46ea6fccb1318"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXxf86vm.download]]
+    sha256 = "3a0152b5867214c274b4ab1d056092d8abd7faecd7d610665f34a5ff1f409b24"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXxf86vm_jll.jl/releases/download/Xorg_libXxf86vm-v1.1.4+0/Xorg_libXxf86vm.v1.1.4.i686-linux-musl.tar.gz"
+[[Xorg_libXxf86vm]]
+arch = "i686"
+git-tree-sha1 = "fe29188353a474c93cda07c0887d71be31e3de0e"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXxf86vm.download]]
+    sha256 = "926b53b488d3452ad93314ff5f05ee670cb1bfe6b820d0475659ac3afb35b9a7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXxf86vm_jll.jl/releases/download/Xorg_libXxf86vm-v1.1.4+0/Xorg_libXxf86vm.v1.1.4.i686-linux-gnu.tar.gz"
+[[Xorg_libXxf86vm]]
+arch = "x86_64"
+git-tree-sha1 = "070a7b56e3019ef6aedcdfbc0cb97ea09ff53ab7"
+os = "freebsd"
+
+    [[Xorg_libXxf86vm.download]]
+    sha256 = "baee3e67148c0db9e81feacafbbf443b1cd111b0e5d5a03d3f5142d5386f0ac0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXxf86vm_jll.jl/releases/download/Xorg_libXxf86vm-v1.1.4+0/Xorg_libXxf86vm.v1.1.4.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_libXxf86vm]]
+arch = "armv7l"
+git-tree-sha1 = "7a5145b5f9970bd2c8da703a0b30cb61e277127f"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXxf86vm.download]]
+    sha256 = "c0df414c9db26d533aa292f8a98fa342d713fba5b7ca0da1ce7a306bddd891ce"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXxf86vm_jll.jl/releases/download/Xorg_libXxf86vm-v1.1.4+0/Xorg_libXxf86vm.v1.1.4.arm-linux-musleabihf.tar.gz"
+[[Xorg_libXxf86vm]]
+arch = "aarch64"
+git-tree-sha1 = "579864b4d1d99414b2feb50f3f5e393ac43f14ea"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXxf86vm.download]]
+    sha256 = "e33e61b2de5c209ff0534df1fa7352182844079157a8c2a72435533901f7bb1c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXxf86vm_jll.jl/releases/download/Xorg_libXxf86vm-v1.1.4+0/Xorg_libXxf86vm.v1.1.4.aarch64-linux-gnu.tar.gz"
+[[Xorg_libXxf86vm]]
+arch = "x86_64"
+git-tree-sha1 = "c1cdaafba78ff65af6ff6a52fffa2a428b724871"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXxf86vm.download]]
+    sha256 = "ebfa60c59b70a90d8afa3f3b9f3d8bfb8af4f78febb349ab6eb3c538a0119d65"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXxf86vm_jll.jl/releases/download/Xorg_libXxf86vm-v1.1.4+0/Xorg_libXxf86vm.v1.1.4.x86_64-linux-gnu.tar.gz"
+[[Xorg_libXxf86vm]]
+arch = "x86_64"
+git-tree-sha1 = "fb717b883953f2ecc783e98e2884ada98e2b022f"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXxf86vm.download]]
+    sha256 = "adb7778fc43c4ce2a7ad8a6001f4a182e58fbee195b6f22150a5195098daaa48"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXxf86vm_jll.jl/releases/download/Xorg_libXxf86vm-v1.1.4+0/Xorg_libXxf86vm.v1.1.4.x86_64-linux-musl.tar.gz"
