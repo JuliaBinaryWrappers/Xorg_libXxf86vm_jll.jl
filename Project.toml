@@ -1,6 +1,6 @@
 name = "Xorg_libXxf86vm_jll"
 uuid = "186ad0d3-3857-58f7-82ba-12edabe58aab"
-version = "1.1.4+1"
+version = "1.1.4+2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
