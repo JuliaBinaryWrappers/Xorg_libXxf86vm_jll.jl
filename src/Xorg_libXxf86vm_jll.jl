@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Xorg_libXxf86vm")
-JLLWrappers.@generate_main_file("Xorg_libXxf86vm", UUID("186ad0d3-3857-58f7-82ba-12edabe58aab"))
+JLLWrappers.@generate_main_file("Xorg_libXxf86vm", Base.UUID("186ad0d3-3857-58f7-82ba-12edabe58aab"))
 end  # module Xorg_libXxf86vm_jll
